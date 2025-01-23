@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Fundal gradient rosu -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="100%" stop-color="#d60000" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#bgGradient)" />
+
+  <!-- Conturul mainilor si liniilor albe -->
+  <path d="M80 80 L100 100 M100 80 L80 100 M120 120 L180 180" 
+        stroke="#ffffff" stroke-width="5" fill="none" />
+
+  <!-- Alte detalii ale mainilor -->
+  <circle cx="150" cy="150" r="10" fill="#ffffff" />
+  <!-- Exemple simple pentru conexiuni -->
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="300" height="220">
+  <g fill="none" stroke="green" stroke-width="10"> <!-- Albastru pentru contur -->
+    <circle cx="150" cy="130" r="60" />
+    <circle cx="200" cy="90" r="80" />
+    <circle cx="270" cy="120" r="70" />
+    <circle cx="330" cy="80" r="90" />
+    <circle cx="400" cy="130" r="70" />
+    <circle cx="300" cy="160" r="100" />
+    <circle cx="210" cy="170" r="80" />
+  </g>
+</svg>
