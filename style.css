@@ -262,7 +262,7 @@ section.reusite::after {
     position: absolute;
     width: 100%;
     height: 50px;
-    background: url('/svg/wavw.svg') repeat-x;
+    background: url('../svg/wavw.svg') repeat-x;
     left: 0;
 }
 
