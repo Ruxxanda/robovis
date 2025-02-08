@@ -248,7 +248,9 @@ section.proiecte.sezon .trei-roboti .robot .cerc.unu {
 
 section.proiecte.sezon .trei-roboti .robot .cerc.doi {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('./images/imag\ 10.jpg') center/cover !important;
+        url('./images/imag\ 10.jpg') !important;
+    background-position: center;
+    background-size: cover;
 }
 
 section.proiecte.sezon .trei-roboti .robot .cerc.trei {
