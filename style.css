@@ -230,30 +230,22 @@ button {
 
 
 section.proiecte.sezon .trei-roboti .robot .cerc {
-    width: 320px;
-    height: 320px;
-    border-radius: 50%;
-    margin-top: -110px;
-    margin-left: 50px;
-    z-index: 5;
-    background-position: center;
-    background-size: cover;
+    display: none;
 }
 
-section.proiecte.sezon .trei-roboti .robot .cerc.unu {
+section.proiecte.sezon .trei-roboti .robot.unu {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('./images/imag\ 9.jpg') center/cover;
-        margin-top: -140px;
+        url('./images/imag\ 9.jpg') no-repeat center/cover;
 }
 
-section.proiecte.sezon .trei-roboti .robot .cerc.doi {
+section.proiecte.sezon .trei-roboti .robot.doi {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('images/imag\ 10.JPG') center/cover !important;
+        url('./images/imag\ 10.JPG') no-repeat center/cover;
 }
 
-section.proiecte.sezon .trei-roboti .robot .cerc.trei {
+section.proiecte.sezon .trei-roboti .robot.trei {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('./images/imag\ 11.jpg') calc(-140px)/cover !important;
+        url('./images/imag\ 11.jpg') no-repeat center/cover;
 }
 
 
