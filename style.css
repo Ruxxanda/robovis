@@ -248,9 +248,7 @@ section.proiecte.sezon .trei-roboti .robot .cerc.unu {
 
 section.proiecte.sezon .trei-roboti .robot .cerc.doi {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('./images/imag\ 10.jpg') !important;
-    background-position: center;
-    background-size: cover;
+        url('images/imag\ 10.JPG') center/cover !important;
 }
 
 section.proiecte.sezon .trei-roboti .robot .cerc.trei {
@@ -834,19 +832,19 @@ section.misiune .divuri .abilitate {
 }
 
 section.misiune .divuri .abilitate.x1 {
-    background-image: url('images/imag\ 5.jpg');
-}
-
-section.misiune .divuri .abilitate.x2 {
     background-image: url('images/imag\ 6.jpg');
 }
 
-section.misiune .divuri .abilitate.x3 {
+section.misiune .divuri .abilitate.x2 {
     background-image: url('images/imag\ 7.jpg');
 }
 
-section.misiune .divuri .abilitate.x4 {
+section.misiune .divuri .abilitate.x3 {
     background-image: url('images/imag\ 8.jpg');
+}
+
+section.misiune .divuri .abilitate.x4 {
+    background-image: url('images/imag\ 9.jpg');
 }
 
 section.misiune .divuri .abilitate p {
@@ -1076,26 +1074,38 @@ section.valorile .toate-valorile .valoare .fotografie {
 
 section.valorile .toate-valorile .valoare .fotografie.x1 {
     background-image: url('./images/imag\ 19.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 section.valorile .toate-valorile .valoare .fotografie.x2 {
     background-image: url('./images/imag\ 20.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 section.valorile .toate-valorile .valoare .fotografie.x3 {
     background-image: url('./images/imag\ 21.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 section.valorile .toate-valorile .valoare .fotografie.x4 {
     background-image: url('./images/imag\ 22.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 section.valorile .toate-valorile .valoare .fotografie.x5 {
     background-image: url('./images/imag\ 23.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 section.valorile .toate-valorile .valoare .fotografie.x6 {
     background-image: url('./images/imag\ 24.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 
